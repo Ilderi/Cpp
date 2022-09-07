@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1662577638 source:c:\programming\c++\zaliczenie stos\main.cpp
+	<iostream>
+	<string>
+	"stack_implementation.cpp"
+
+1662571759 source:c:\programming\c++\zaliczenie stos\src\stack_implementation.cpp
+	"stack_implementation.h"
+	<iostream>
+
+1662573770 c:\programming\c++\zaliczenie stos\include\stack_implementation.h
+
+1662577756 source:c:\programming\c++\zaliczenie stos\stack_implementation.cpp
+	"stack_implementation.h"
+	<iostream>
+	<windows.h>
+
+1662577756 c:\programming\c++\zaliczenie stos\stack_implementation.cpp
+	"stack_implementation.h"
+	<iostream>
+	<windows.h>
+
