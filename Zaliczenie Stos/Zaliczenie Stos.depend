@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1662578031 source:c:\programming\c++\zaliczenie stos\main.cpp
+1662578976 source:c:\programming\c++\zaliczenie stos\main.cpp
 	<iostream>
 	<string>
 	"stack_implementation.cpp"

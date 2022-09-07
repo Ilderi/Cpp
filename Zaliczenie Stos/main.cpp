@@ -41,6 +41,7 @@ int main()
 
     cout << "\nReading from \"double\" stack\n" << endl;
 
+    double_stack.returnCurrentStackSize();
     for(int i = 0; i < test_count; i++)
     {
         double_stack.returnTopElement();
@@ -74,6 +75,7 @@ int main()
 
     cout << "\nReading from \"string\" stack\n" << endl;
 
+    string_stack.returnCurrentStackSize();
     for(int i = 0; i < test_count; i++)
     {
         string_stack.returnTopElement();
